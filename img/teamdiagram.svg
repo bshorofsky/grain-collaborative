@@ -7,29 +7,32 @@
 	.st1{font-size:0.1129px;}
 	.st2{font-family:'Verdana';}
 	.st3{font-size:32.4323px;}
-	.st4{fill:#ECBA37;stroke:#ECBA37;}
+	.st4{fill:#ECBA37;}
 	.st5{font-family:'ArialMT';}
 	.st6{font-size:33px;}
-	.st7{fill:#ECBA37;stroke:#ECBA37;stroke-miterlimit:10;}
-	.st8{fill:#218DBA;stroke:#218DBA;}
-	.st9{fill:#218DBA;stroke:#218DBA;stroke-miterlimit:10;}
-	.st10{fill:#6B656B;stroke:#6B656B;stroke-miterlimit:10;}
-	.st11{fill:none;stroke:#6B656B;stroke-width:4.4315;stroke-miterlimit:10;}
-	.st12{font-family:'Effra-Regular';}
-	.st13{font-size:38.2277px;}
-	.st14{stroke:#ECBA37;stroke-width:6;stroke-miterlimit:10;}
-	.st15{fill:#80A63F;stroke:#6B656B;stroke-width:6;stroke-miterlimit:10;}
-	.st16{stroke:#6B656B;stroke-width:6;stroke-miterlimit:10;}
-	.st17{stroke:#218DBA;stroke-width:6;stroke-miterlimit:10;}
-	.st18{fill:#6B656B;stroke:#000000;stroke-miterlimit:10;}
-	.st19{fill:#6B656B;stroke:#000000;stroke-width:0.75;stroke-miterlimit:10;}
-	.st20{fill:none;stroke:#6B656B;stroke-miterlimit:10;}
-	.st21{fill:none;stroke:#6B656B;stroke-width:1.0058;stroke-miterlimit:10;}
-	.st22{fill:none;stroke:#000000;stroke-width:8;stroke-miterlimit:10;}
+	.st7{fill:none;stroke:#ECBA37;}
+	.st8{fill:#ECBA37;stroke:#ECBA37;stroke-miterlimit:10;}
+	.st9{fill:#218DBA;}
+	.st10{fill:none;stroke:#218DBA;}
+	.st11{fill:#218DBA;stroke:#218DBA;stroke-miterlimit:10;}
+	.st12{fill:#6B656B;stroke:#6B656B;stroke-miterlimit:10;}
+	.st13{fill:#6B656B;}
+	.st14{fill:none;stroke:#6B656B;stroke-miterlimit:10;}
+	.st15{fill:none;stroke:#6B656B;stroke-width:4.4315;stroke-miterlimit:10;}
+	.st16{font-family:'Effra-Regular';}
+	.st17{font-size:38.2277px;}
+	.st18{stroke:#ECBA37;stroke-width:6;stroke-miterlimit:10;}
+	.st19{fill:#80A63F;stroke:#6B656B;stroke-width:6;stroke-miterlimit:10;}
+	.st20{stroke:#6B656B;stroke-width:6;stroke-miterlimit:10;}
+	.st21{stroke:#218DBA;stroke-width:6;stroke-miterlimit:10;}
+	.st22{fill:none;stroke:#000000;stroke-miterlimit:10;}
+	.st23{fill:none;stroke:#000000;stroke-width:0.75;stroke-miterlimit:10;}
+	.st24{fill:none;stroke:#6B656B;stroke-width:1.0058;stroke-miterlimit:10;}
+	.st25{fill:none;stroke:#000000;stroke-width:8;stroke-miterlimit:10;}
 </style>
 <a xlink:href="http://delta-institute.org/"  transform="matrix(0.2001 0 0 0.2001 468.5014 225.3354)">
 	
-		<image style="overflow:visible;" width="986" height="435" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAA9oAAAGzCAYAAADQc2/8AAAABGdBTUEAALGOfPtRkwAAACBjSFJN
+		<image style="overflow:visible;enable-background:new    ;" width="986" height="435" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAA9oAAAGzCAYAAADQc2/8AAAABGdBTUEAALGOfPtRkwAAACBjSFJN
 AACHDwAAjA8AAP1SAACBQAAAfXkAAOmLAAA85QAAGcxzPIV3AAAKOWlDQ1BQaG90b3Nob3AgSUND
 IHByb2ZpbGUAAEjHnZZ3VFTXFofPvXd6oc0wAlKG3rvAANJ7k15FYZgZYCgDDjM0sSGiAhFFRJoi
 SFDEgNFQJFZEsRAUVLAHJAgoMRhFVCxvRtaLrqy89/Ly++Osb+2z97n77L3PWhcAkqcvl5cGSwGQ
@@ -1234,7 +1237,7 @@ AAAAALCNyP8BVyKAHT71BowAAAAASUVORK5CYII=">
 </a>
 <a xlink:href="http://freshtaste.org/"  transform="matrix(0.2739 0 0 0.2739 366.116 330.9988)">
 	
-		<image style="overflow:visible;" width="504" height="360" xlink:href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAgAAZABkAAD/7AARRHVja3kAAQAEAAAAZAAA/+4ADkFkb2JlAGTAAAAAAf/b
+		<image style="overflow:visible;enable-background:new    ;" width="504" height="360" xlink:href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAgAAZABkAAD/7AARRHVja3kAAQAEAAAAZAAA/+4ADkFkb2JlAGTAAAAAAf/b
 AIQAAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQICAgICAgICAgIC
 AwMDAwMDAwMDAwEBAQEBAQECAQECAgIBAgIDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMD
 AwMDAwMDAwMDAwMDAwMDAwMD/8AAEQgBaAH4AwERAAIRAQMRAf/EAaIAAAAGAgMBAAAAAAAAAAAA
@@ -2299,7 +2302,7 @@ Xvfuvde9+691737r3Xvfuvde9+691737r3Xvfuvde9+691737r3Xvfuvde9+691737r3Xvfuvde9
 </a>
 <a xlink:href="https://www.ideo.com/location/chicago"  transform="matrix(0.6761 0 0 0.6761 294.5896 475.2531)">
 	
-		<image style="overflow:visible;" width="168" height="59" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAKgAAAA7CAYAAADvucFZAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+		<image style="overflow:visible;enable-background:new    ;" width="168" height="59" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAKgAAAA7CAYAAADvucFZAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
 jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAAhdEVYdENyZWF0aW9uIFRpbWUAMjAxNjowMToz
 MSAxMzo0Mzo1MKmiKzcAAAtLSURBVHhe7ZwHTBRNFMfHjgoKFmwgig0bioI9CmqMWEIsEcEosccW
 NTEaFY0xRgmW2AvWxB4TsRtrVCQixq5Ro2DssXfs7jf/ce4D92b3do8D9sz8ksndzu3O7M2+mXnv
@@ -2357,7 +2360,7 @@ sFy90Q5IAZVYGmnFSyyNFFCJpZECKrE0UkAllkYKqMTSSAGVWBopoBJLIwVUYmmkgEosjRRQiYUh
 </a>
 <a xlink:href="http://www.bakermillerchicago.com/#the-kitchen"  transform="matrix(0.2116 0 0 0.2116 549.9872 853.8545)">
 	
-		<image style="overflow:visible;" width="960" height="560" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAA8AAAAIwCAYAAABJMwI2AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
+		<image style="overflow:visible;enable-background:new    ;" width="960" height="560" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAA8AAAAIwCAYAAABJMwI2AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
 bWFnZVJlYWR5ccllPAAAa0pJREFUeNrs3S1UJEuf7/vo/WwxVzXbjYPtxkG7xwHuuAZ3jmpwc1QX
 7hxF4a6DVlcC6q6jCuSoAjeuwI0r2j2ObjejOPkrKtlJdr3kyz8yIzK/n7Vi7e7dUJUVmVUVv4w3
 5wAAAAAAAAAAAAAAAAAAAAAAAAAAAACE5ANVAABAkPaW/P+dpGzUfOwfSXlY8m93VD0AgAAMAACq
@@ -2845,7 +2848,7 @@ AAAA4En+CDAAqLP+0GwUVPgAAAAASUVORK5CYII=">
 </a>
 <a xlink:href="http://www.floriole.com/"  transform="matrix(0.1516 0 0 0.1681 1066.002 920.6077)">
 	
-		<image style="overflow:visible;" width="977" height="513" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAA9EAAAIBCAIAAADBG6u/AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
+		<image style="overflow:visible;enable-background:new    ;" width="977" height="513" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAA9EAAAIBCAIAAADBG6u/AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
 bWFnZVJlYWR5ccllPAAAeLtJREFUeNrsvX+MHdWd4Ftluxl3xza4GxzTbqeDu2nw2sTmBSc4E3sU
 mB2PYkSYaLxApIENM9rnJVqtCFKe9OBP+OdJCdJ7G4Z9O5OMGbEmIhoxCBM5GUy2vTM22Hm4nXbA
 Pxpk3N38MH0dg9ftgDP3fc+t7uq6VXVvV9WtU3Wq7uejltU+bt+uOnV+fM6pc75n0Yff/KYFAAAA
@@ -3393,7 +3396,7 @@ EREREeYWERERERHmFhERERFhbhERERGRovO/AAMAaHdNrtvN8L8AAAAASUVORK5CYII=">
 </a>
 <a xlink:href="https://www.lainesbakeshop.com/"  transform="matrix(0.274 0 0 0.2748 808.1815 898.1887)">
 	
-		<image style="overflow:visible;" width="500" height="477" xlink:href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEASABIAAD/2wBDAAQDAwMDAgQDAwMEBAQFBgoGBgUFBgwICQcKDgwPDg4M
+		<image style="overflow:visible;enable-background:new    ;" width="500" height="477" xlink:href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEASABIAAD/2wBDAAQDAwMDAgQDAwMEBAQFBgoGBgUFBgwICQcKDgwPDg4M
 DQ0PERYTDxAVEQ0NExoTFRcYGRkZDxIbHRsYHRYYGRj/2wBDAQQEBAYFBgsGBgsYEA0QGBgYGBgY
 GBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBj/wAARCAHdAfQDASIA
 AhEBAxEB/8QAHQABAAICAwEBAAAAAAAAAAAAAAcIBQYBBAkDAv/EAFcQAAEDAwIDBQMHCAcEBgkE
@@ -4381,7 +4384,7 @@ ICAgICAgICAgICAgICAgICAgICAgICAgICAgICA=">
 </a>
 <a xlink:href="http://www.publicanqualitymeats.com/publican-quality-bread/"  transform="matrix(0.7127 0 0 0.7127 298.055 614.7194)">
 	
-		<image style="overflow:visible;" width="181" height="181" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAALUAAAC1CAYAAAAZU76pAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
+		<image style="overflow:visible;enable-background:new    ;" width="181" height="181" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAALUAAAC1CAYAAAAZU76pAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
 bWFnZVJlYWR5ccllPAAAA+lpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdp
 bj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6
 eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYxIDY0LjE0
@@ -4521,7 +4524,7 @@ RxzKyBeTmlESsZd5F6rq8f8CDACztK5G8QejxwAAAABJRU5ErkJggg==">
 </a>
 <a xlink:href="http://www.lonesomestonemilling.com/"  transform="matrix(0.2506 0 0 0.2101 1277.9568 193.3636)">
 	
-		<image style="overflow:visible;" width="784" height="529" xlink:href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEASABIAAD/7gAOQWRvYmUAZAAAAAAA/+0ALFBob3Rvc2hvcCAzLjAAOEJJ
+		<image style="overflow:visible;enable-background:new    ;" width="784" height="529" xlink:href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEASABIAAD/7gAOQWRvYmUAZAAAAAAA/+0ALFBob3Rvc2hvcCAzLjAAOEJJ
 TQPtAAAAAAAQASwAAAABAAEBLAAAAAEAAf/hfvlodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAv
 ADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+Cjx4
 OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3Jl
@@ -17129,7 +17132,7 @@ Rf/Z">
 </a>
 <a xlink:href="http://www.plovgh.com/"  transform="matrix(0.2943 0 0 0.2943 1000 155.0414)">
 	
-		<image style="overflow:visible;" width="759" height="179" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAvcAAACzCAYAAAANKTPoAAAACXBIWXMAAAsTAAALEwEAmpwYAAAg
+		<image style="overflow:visible;enable-background:new    ;" width="759" height="179" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAvcAAACzCAYAAAANKTPoAAAACXBIWXMAAAsTAAALEwEAmpwYAAAg
 AElEQVR4Ae2dX6gkV7X/TxJhAgmZcxOYUeFOOmoGBZN0MOJDEuxAQEF/eML4En1Ij+CD5iEzT3J/
 IDOD8IP7NDMPVx8Ep+dB8+KQE1QwIKRDkocfRjxJBC+Jms4E1Ano70xIIAM35Lc+PbXHOrt3/d/V
 Xd39XVCnqnftvfZa36ru892r1t513YcffrghEQJCQAgIASEgBISAEBACQmD5Ebh++V2QB0JACAgB
@@ -17497,7 +17500,7 @@ QAgIASGwTgiI3K/T1ZavQkAICAEhIASEgBAQAiuNgMj9Sl9eOScEhIAQEAJCQAgIASGwTgj8f9+a
 </a>
 <a xlink:href="http://web.extension.illinois.edu/lmw/localfoods.html"  transform="matrix(0.1618 0 0 0.1618 1471.9991 312.3855)">
 	
-		<image style="overflow:visible;" width="900" height="586" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAA4QAAAJKCAYAAAB024tLAAAABHNCSVQICAgIfAhkiAAAAAlwSFlz
+		<image style="overflow:visible;enable-background:new    ;" width="900" height="586" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAA4QAAAJKCAYAAAB024tLAAAABHNCSVQICAgIfAhkiAAAAAlwSFlz
 AAALEgAACxIB0t1+/AAAABZ0RVh0Q3JlYXRpb24gVGltZQAwNC8xOS8xMyroxbIAAAAcdEVYdFNv
 ZnR3YXJlAEFkb2JlIEZpcmV3b3JrcyBDUzVxteM2AAAEPnByVld4nO1ZTZbbNgxGJ4nHTG2NRmon
 auWGGC+y79NFcoUsomxzHV8mB8jzXXqDuvghJWpsaTaxlDfFJ4vmLz6AAElZ/v7vt3/gK3w9MY50
@@ -25646,28 +25649,27 @@ tnNhAAAAAElFTkSuQmCC">
 			<path d="M483.4,658.4C483.4,658.5,483.4,658.5,483.4,658.4C483.4,658.5,483.4,658.5,483.4,658.4
 				C483.5,658.5,483.5,658.5,483.4,658.4C483.5,658.5,483.5,658.5,483.4,658.4C483.5,658.5,483.5,658.5,483.4,658.4
 				C483.5,658.5,483.5,658.5,483.4,658.4C483.5,658.4,483.5,658.4,483.4,658.4z M483.5,658.2c-0.2,0-0.3,0.1-0.3,0.3
-				c0,0.2,0.1,0.3,0.3,0.3s0.3-0.1,0.3-0.3C483.8,658.3,483.6,658.2,483.5,658.2z M483.5,658.7c-0.1,0-0.2-0.1-0.2-0.2
-				s0.1-0.2,0.2-0.2c0.1,0,0.2,0.1,0.2,0.2S483.6,658.7,483.5,658.7z M484.3,658.6C484.3,658.6,484.3,658.6,484.3,658.6
-				C484.3,658.6,484.3,658.6,484.3,658.6C484.3,658.6,484.3,658.6,484.3,658.6C484.4,658.6,484.4,658.6,484.3,658.6
-				C484.4,658.6,484.4,658.6,484.3,658.6C484.4,658.6,484.4,658.6,484.3,658.6C484.4,658.5,484.3,658.5,484.3,658.6z M484.4,658.4
-				L484.4,658.4c0-0.2-0.1-0.2-0.1-0.2h0V658c0,0,0,0,0,0c0,0,0,0,0,0c0,0,0,0,0,0h-0.1c0,0-0.1,0-0.1,0.1v0.2h-0.2l-0.1-0.4
-				c0,0,0,0,0,0c0,0,0-0.1-0.1-0.1h-0.4c0,0,0,0,0,0c0,0,0,0,0,0h0.1v0.3h-0.1c0,0,0,0,0,0s0,0,0,0h0.1c0.2,0,0.3,0.2,0.3,0.3v0.1
-				c0,0,0,0,0,0h0.3c0,0.1,0.1,0.2,0.2,0.2c0.1,0,0.2-0.1,0.2-0.2C484.5,658.5,484.5,658.5,484.4,658.4z M484.2,658
-				C484.2,658,484.2,658,484.2,658L484.2,658C484.2,658,484.2,658,484.2,658l0,0.2h0V658z M483.5,658.1v-0.3h0.3c0,0,0,0,0,0
-				l0.1,0.4h-0.2C483.7,658.1,483.6,658.1,483.5,658.1z M483.9,658.6L483.9,658.6c0-0.2,0-0.3-0.1-0.3h0.5c0,0,0.1,0,0.1,0.1h-0.1
-				c0,0,0,0,0,0c0,0,0,0,0,0h0.1v0.1c0,0,0,0,0,0c-0.1,0-0.2,0.1-0.2,0.2H483.9z M484.4,658.7c-0.1,0-0.1-0.1-0.1-0.1
-				c0-0.1,0.1-0.1,0.1-0.1c0.1,0,0.1,0.1,0.1,0.1C484.5,658.7,484.4,658.7,484.4,658.7z"/>
+				s0.1,0.3,0.3,0.3s0.3-0.1,0.3-0.3S483.6,658.2,483.5,658.2z M483.5,658.7c-0.1,0-0.2-0.1-0.2-0.2s0.1-0.2,0.2-0.2
+				s0.2,0.1,0.2,0.2S483.6,658.7,483.5,658.7z M484.3,658.6L484.3,658.6L484.3,658.6L484.3,658.6
+				C484.4,658.6,484.4,658.6,484.3,658.6C484.4,658.6,484.4,658.6,484.3,658.6C484.4,658.6,484.4,658.6,484.3,658.6
+				C484.4,658.5,484.3,658.5,484.3,658.6z M484.4,658.4L484.4,658.4c0-0.2-0.1-0.2-0.1-0.2l0,0V658l0,0l0,0l0,0h-0.1
+				c0,0-0.1,0-0.1,0.1v0.2h-0.2l-0.1-0.4l0,0c0,0,0-0.1-0.1-0.1h-0.4l0,0l0,0h0.1v0.3h-0.1l0,0l0,0h0.1c0.2,0,0.3,0.2,0.3,0.3v0.1
+				l0,0h0.3c0,0.1,0.1,0.2,0.2,0.2S484.4,658.6,484.4,658.4C484.5,658.5,484.5,658.5,484.4,658.4z M484.2,658L484.2,658L484.2,658
+				L484.2,658v0.2l0,0V658z M483.5,658.1v-0.3h0.3l0,0l0.1,0.4h-0.2C483.7,658.1,483.6,658.1,483.5,658.1z M483.9,658.6L483.9,658.6
+				c0-0.2,0-0.3-0.1-0.3h0.5c0,0,0.1,0,0.1,0.1h-0.1l0,0l0,0h0.1v0.1l0,0c-0.1,0-0.2,0.1-0.2,0.2L483.9,658.6L483.9,658.6z
+				 M484.4,658.7c-0.1,0-0.1-0.1-0.1-0.1c0-0.1,0.1-0.1,0.1-0.1c0.1,0,0.1,0.1,0.1,0.1C484.5,658.7,484.4,658.7,484.4,658.7z"/>
 		</g>
 	</g>
 	<text transform="matrix(1 0 0 1 483.1835 659.287)" class="st0 st1">Created by Norbert Kucsera</text>
 	<text transform="matrix(1 0 0 1 483.1835 659.4003)" class="st0 st1">from the Noun Project</text>
 </g>
-<a xlink:href="https://www.freshpicks.com/eris.html" >
-	<text transform="matrix(1.0194 0 0 1 753.1535 181.3804)"><tspan x="0" y="0" class="st2 st3">Goldmine</tspan><tspan x="26.9" y="38.9" class="st2 st3">Farms</tspan></text>
+<a xlink:href="http://newfarm.rodaleinstitute.org/casestudies/erisman/anderson.shtml" >
+	<text transform="matrix(1.0194 0 0 1 753.1538 181.3804)" class="st2 st3">Goldmine</text>
+	<text transform="matrix(1.0194 0 0 1 780.5752 220.2803)" class="st2 st3">Farms</text>
 </a>
 <a xlink:href="https://www.linkedin.com/in/johnstevenbianucci"  transform="matrix(9.595706e-02 0 0 8.588097e-02 1519.9512 419.5717)">
 	
-		<image style="overflow:visible;" width="2667" height="1611" xlink:href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQIAnQCdAAD/2wBDAAMCAgICAgMCAgIDAwMDBAYEBAQEBAgGBgUGCQgKCgkI
+		<image style="overflow:visible;enable-background:new    ;" width="2667" height="1611" xlink:href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQIAnQCdAAD/2wBDAAMCAgICAgMCAgIDAwMDBAYEBAQEBAgGBgUGCQgKCgkI
 CQkKDA8MCgsOCwkJDRENDg8QEBEQCgwSExIQEw8QEBD/2wBDAQMDAwQDBAgEBAgQCwkLEBAQEBAQ
 EBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBD/wAARCAZLCmsDASIA
 AhEBAxEB/8QAHQABAAMAAgMBAAAAAAAAAAAAAAcICQUGAQMEAv/EAGIQAQABAwICBAYJDA0KBQMD
@@ -27693,7 +27695,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA/9k=">
 </a>
 <a xlink:href="http://spencefarmfoundation.org/"  transform="matrix(0.7773 0 0 0.7773 1471.9991 742.2086)">
 	
-		<image style="overflow:visible;" width="256" height="67" xlink:href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxISEhUSExQWFRUVGRgbGBgYFh8fHhsgHR8fHx8e
+		<image style="overflow:visible;enable-background:new    ;" width="256" height="67" xlink:href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxISEhUSExQWFRUVGRgbGBgYFh8fHhsgHR8fHx8e
 HiIeICgiHB0mGxcbITEnJikrLi4uHR81ODMtNyotLisBCgoKDg0OGxAQGy0lHyUtLS0tLy03LS0t
 LS0tLS8uLSsrLS0tLS0rLS0rLS0tLSstLS0tKy01Ny0tLS0tKy0tLf/AABEIAEMBAAMBIgACEQED
 EQH/xAAbAAACAwEBAQAAAAAAAAAAAAAFBgAEBwMCAf/EAEQQAAIBAwIDBgMFAwkHBQAAAAECAwAE
@@ -27787,7 +27789,7 @@ BgMdJG3UERr19BWtipUqSD7UqVK2D//Z">
 </a>
 <a xlink:href="https://thekitchencommunity.org/"  transform="matrix(8.781444e-02 0 0 8.781444e-02 1299.6202 836.8739)">
 	
-		<image style="overflow:visible;" width="2325" height="868" xlink:href="data:image/jpeg;base64,/9j/7QAsUGhvdG9zaG9wIDMuMAA4QklNA+0AAAAAABABLAAAAAEAAQEsAAAAAQAB/+E4WWh0dHA6
+		<image style="overflow:visible;enable-background:new    ;" width="2325" height="868" xlink:href="data:image/jpeg;base64,/9j/7QAsUGhvdG9zaG9wIDMuMAA4QklNA+0AAAAAABABLAAAAAEAAQEsAAAAAQAB/+E4WWh0dHA6
 Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8APD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBD
 ZWhpSHpyZVN6TlRjemtjOWQiPz4KPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIg
 eDp4bXB0az0iQWRvYmUgWE1QIENvcmUgNS4zLWMwMTEgNjYuMTQ1NjYxLCAyMDEyLzAyLzA2LTE0
@@ -35680,12 +35682,12 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB/9k=">
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB/9k=" transform="matrix(1 0 0 1 0 0)">
 	</image>
 </a>
 <a xlink:href="https://www.kendall.edu/"  transform="matrix(0.8489 0 0 0.8489 1502.5786 617.6135)">
 	
-		<image style="overflow:visible;" width="320" height="62" xlink:href="data:image/gif;base64,R0lGODlhQAE+ANUAANuNfiMfIMYzOsbIyuOmmPPd1e7OxMxRS/js52NkZ9R2aJOVmMhDQtiCc9+Z
+		<image style="overflow:visible;enable-background:new    ;" width="320" height="62" xlink:href="data:image/gif;base64,R0lGODlhQAE+ANUAANuNfiMfIMYzOsbIyuOmmPPd1e7OxMxRS/js52NkZ9R2aJOVmMhDQtiCc9+Z
 itJrXuazpu7v8Dc1N+Hi46yusXx+gEdHSdTV11VWWLm7vYiKjJ+hpHBxdM5eVerBtcMgMv///wAA
 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH/C1hNUCBEYXRhWE1QPD94cGFja2V0
@@ -35794,91 +35796,93 @@ Qv2QQm4whHPRuC4EQyC90vqaBEvQDVEwBSw903cXBAA7">
 	</image>
 </a>
 <text transform="matrix(1 0 0 1 118.5588 261.0167)" class="st4 st5 st6">Oversight Team</text>
+<text transform="matrix(1 0 0 1 118.5588 261.0167)" class="st7 st5 st6">Oversight Team</text>
 <g>
 	<g>
 		<g>
-			<path class="st7" d="M254.2,187.5c-6.2,0-11.1,1.6-14.8,3.7c5.7,4.9,8.2,10.7,8.6,11.1l0.4,0.8v9h32.9v-8.2
+			<path class="st8" d="M254.2,187.5c-6.2,0-11.1,1.6-14.8,3.7c5.7,4.9,8.2,10.7,8.6,11.1l0.4,0.8v9h32.9v-8.2
 				C280.9,203.9,274.3,187.5,254.2,187.5z"/>
 		</g>
 		<g>
-			<circle class="st7" cx="254.2" cy="164.9" r="14.4"/>
+			<circle class="st8" cx="254.2" cy="164.9" r="14.4"/>
 		</g>
 	</g>
 	<g>
-		<path class="st7" d="M202.9,164.9c0-7.8,6.6-14.4,14.4-14.4s14.4,6.6,14.4,14.4s-6.6,14.4-14.4,14.4S202.9,172.7,202.9,164.9z
+		<path class="st8" d="M202.9,164.9c0-7.8,6.6-14.4,14.4-14.4s14.4,6.6,14.4,14.4s-6.6,14.4-14.4,14.4S202.9,172.7,202.9,164.9z
 			 M217.2,187.5c-20.1,0-26.7,16.4-26.7,16.4v8.2h53.4v-8.2C243.9,203.9,237.4,187.5,217.2,187.5z"/>
 	</g>
 </g>
-<text transform="matrix(1 0 0 1 1645.7656 130.4819)"><tspan x="0" y="0" class="st8 st5 st6">Production/Market </tspan><tspan x="-5.5" y="39.6" class="st8 st5 st6">Development Team</tspan></text>
+<text transform="matrix(1 0 0 1 1645.7656 130.4819)" class="st9 st5 st6">Production/Market </text>
+<text transform="matrix(1 0 0 1 1645.7656 130.4819)" class="st10 st5 st6">Production/Market </text>
+<text transform="matrix(1 0 0 1 1640.2656 170.0819)" class="st9 st5 st6">Development Team</text>
+<text transform="matrix(1 0 0 1 1640.2656 170.0819)" class="st10 st5 st6">Development Team</text>
 <g>
 	<g>
 		<g>
-			<path class="st9" d="M1778.7,263.4c-0.8,0.7-1.2,1.8-1.2,2.8c0,1.1,0.4,2.1,1.2,2.9c0.7,0.7,1.8,1.2,2.8,1.2c1,0,2.1-0.4,2.9-1.2
+			<path class="st11" d="M1778.7,263.4c-0.8,0.7-1.2,1.8-1.2,2.8c0,1.1,0.4,2.1,1.2,2.9c0.7,0.7,1.8,1.2,2.8,1.2s2.1-0.4,2.9-1.2
 				c0.7-0.7,1.2-1.8,1.2-2.8s-0.4-2.1-1.2-2.8C1782.9,261.9,1780.2,261.9,1778.7,263.4z M1781.6,240.1c-14.4,0-26.1,11.7-26.1,26.1
 				c0,14.4,11.7,26.1,26.1,26.1s26.1-11.7,26.1-26.1C1807.7,251.8,1796,240.1,1781.6,240.1z M1781.6,288.3
-				c-12.2,0-22.1-9.9-22.1-22.1c0-12.2,9.9-22.1,22.1-22.1s22.1,9.9,22.1,22.1C1803.7,278.4,1793.8,288.3,1781.6,288.3z
-				 M1857.1,273.4c-0.7,0.7-1.2,1.8-1.2,2.8c0,1.1,0.4,2.1,1.2,2.9c0.8,0.7,1.8,1.2,2.9,1.2s2.1-0.4,2.8-1.2
-				c0.8-0.7,1.2-1.8,1.2-2.8c0-1-0.4-2.1-1.2-2.8C1861.3,271.9,1858.6,271.9,1857.1,273.4z M1868,262.3v-8.2c0-7.1-5-12.1-12.1-12.1
-				h-4V224c0-0.9,1.1-2,2-2c1.1,0,2-0.9,2-2s-0.9-2-2-2h-8c-3.1,0-6,2.9-6,6v18.1h-16.5l-7.7-32.6c0-0.2-0.1-0.3-0.2-0.4
-				c-0.1-0.2-2.6-5.1-7.8-5.1h-38.2c-1.1,0-2,0.9-2,2s0.9,2,2,2h8V232h-6c-1.1,0-2,0.9-2,2c0,1.1,0.9,2,2,2h10
-				c16.6,0,30.1,13.5,30.1,30.1v10c0,1.1,0.9,2,2,2h30.3c1,7.9,7.7,14.1,15.9,14.1c8.9,0,16.1-7.2,16.1-16.1
-				C1876,270.3,1872.7,265.1,1868,262.3z M1843.8,224c0-0.9,1.1-2,2-2h2.4c-0.3,0.6-0.4,1.3-0.4,2v18.1h-4V224z M1781.6,232v-24.1
-				h26.1c2.3,0,3.8,2.1,4.1,2.7l7.4,31.4h-13.5C1799.6,235.9,1791,232,1781.6,232z M1815.7,274.2v-8c0-7.5-2.5-14.4-6.6-20.1h46.8
-				c4.2,0,7.1,2.3,7.8,6h-7.8c-1.1,0-2,0.9-2,2c0,1.1,0.9,2,2,2h8v4.5c-1.3-0.3-2.6-0.5-4-0.5c-8.2,0-14.9,6.1-15.9,14.1H1815.7z
-				 M1859.9,288.3c-6.6,0-12.1-5.4-12.1-12.1c0-6.6,5.4-12.1,12.1-12.1s12.1,5.4,12.1,12.1C1872,282.9,1866.6,288.3,1859.9,288.3z"
-				/>
+				c-12.2,0-22.1-9.9-22.1-22.1c0-12.2,9.9-22.1,22.1-22.1s22.1,9.9,22.1,22.1S1793.8,288.3,1781.6,288.3z M1857.1,273.4
+				c-0.7,0.7-1.2,1.8-1.2,2.8c0,1.1,0.4,2.1,1.2,2.9c0.8,0.7,1.8,1.2,2.9,1.2s2.1-0.4,2.8-1.2c0.8-0.7,1.2-1.8,1.2-2.8
+				s-0.4-2.1-1.2-2.8C1861.3,271.9,1858.6,271.9,1857.1,273.4z M1868,262.3v-8.2c0-7.1-5-12.1-12.1-12.1h-4v-18c0-0.9,1.1-2,2-2
+				c1.1,0,2-0.9,2-2s-0.9-2-2-2h-8c-3.1,0-6,2.9-6,6v18.1h-16.5l-7.7-32.6c0-0.2-0.1-0.3-0.2-0.4c-0.1-0.2-2.6-5.1-7.8-5.1h-38.2
+				c-1.1,0-2,0.9-2,2s0.9,2,2,2h8v24h-6c-1.1,0-2,0.9-2,2s0.9,2,2,2h10c16.6,0,30.1,13.5,30.1,30.1v10c0,1.1,0.9,2,2,2h30.3
+				c1,7.9,7.7,14.1,15.9,14.1c8.9,0,16.1-7.2,16.1-16.1C1876,270.3,1872.7,265.1,1868,262.3z M1843.8,224c0-0.9,1.1-2,2-2h2.4
+				c-0.3,0.6-0.4,1.3-0.4,2v18.1h-4V224z M1781.6,232v-24.1h26.1c2.3,0,3.8,2.1,4.1,2.7l7.4,31.4h-13.5
+				C1799.6,235.9,1791,232,1781.6,232z M1815.7,274.2v-8c0-7.5-2.5-14.4-6.6-20.1h46.8c4.2,0,7.1,2.3,7.8,6h-7.8c-1.1,0-2,0.9-2,2
+				s0.9,2,2,2h8v4.5c-1.3-0.3-2.6-0.5-4-0.5c-8.2,0-14.9,6.1-15.9,14.1H1815.7z M1859.9,288.3c-6.6,0-12.1-5.4-12.1-12.1
+				c0-6.6,5.4-12.1,12.1-12.1s12.1,5.4,12.1,12.1S1866.6,288.3,1859.9,288.3z"/>
 		</g>
 	</g>
 </g>
 <g>
 	<g>
 		<g>
-			<path class="st10" d="M774.8,1107.9l-0.3-0.1c-7.7,4.2-11,12.8-11,12.8c0.5-8.6,4.8-13.1,6.9-14.7l-14.5-5.2
+			<path class="st12" d="M774.8,1107.9l-0.3-0.1c-7.7,4.2-11,12.8-11,12.8c0.5-8.6,4.8-13.1,6.9-14.7l-14.5-5.2
 				c-0.1,0-1.6,0.8-1.7,0.9c-1,0.7-1.9,1.6-2.8,2.3c-0.9,0.8-1.8,1.6-2.7,2.4c-1.9,1.8-3.8,3.8-5.5,5.8c-2.2,2.4-4.3,4.8-6.3,7.4
 				c2.8-10.6,8.5-19.1,9.4-20.4c-0.1,0.1-3-0.6-3.3-0.6c-3.2-0.5-6.3-0.9-9.5-1.2c-1.4-0.1-3-0.4-4.4-0.4c-1,0-2.1,0.8-2.9,1.3
 				c-2.1,1.1-3.9,2.9-5.5,4.6c-1.9,2-3.6,4.1-5.3,6.2c-1.9,2.4-3.8,4.9-5.5,7.4c0.7-8.3,5.6-16.2,7.8-19.3c-0.1,0.1-1.2,0-1.4,0
 				c-0.5,0-1,0-1.5,0c-2.9,0.1-5.7,0.4-8.5,0.7c-1.8,0.2-3.6,0.4-5.5,0.7c-1,0.1-2,0.3-3.1,0.4c-1,0.1-2.1,0.2-3,0.5
 				c-0.2,0.1-0.4,0.2-0.5,0.3c-0.6,0.5-1,1.1-1.5,1.7c-0.4,0.5-0.8,1-1.2,1.5c-1.3,1.6-2.6,3.2-3.9,4.8c-1.3,1.6-2.6,3.2-3.9,4.8
 				c-0.6,0.7-1.2,1.5-1.8,2.2c-0.4-4.9,1.4-9.6,2.7-12.3c-11.5,2.9-30.6,10.1-32.1,26.8c0.2,3,0.6,11.1,18,12.3
-				c17.3,1.2,50-1.2,76.8-0.2c26.8,1,46.7,0.2,46.3-12.3C793.2,1116.6,774.8,1107.9,774.8,1107.9z"/>
+				c17.3,1.2,50-1.2,76.8-0.2s46.7,0.2,46.3-12.3C793.2,1116.6,774.8,1107.9,774.8,1107.9z"/>
 		</g>
 	</g>
-	<text transform="matrix(1 0 0 1 829.5929 1128.0813)" class="st10 st5 st6">Culinary/Education Team</text>
+	<text transform="matrix(1 0 0 1 829.5929 1128.0813)" class="st13 st5 st6">Culinary/Education Team</text>
+	<text transform="matrix(1 0 0 1 829.5929 1128.0813)" class="st14 st5 st6">Culinary/Education Team</text>
 	<g>
 		<g>
-			<path class="st11" d="M1254.3,1111.6h65.6v-39.5h-65.6V1111.6z"/>
-			<path class="st10" d="M1277.1,1085.3c0,3.4-2.8,6.2-6.2,6.2s-6.2-2.8-6.2-6.2s2.8-6.2,6.2-6.2
+			<path class="st15" d="M1254.3,1111.6h65.6v-39.5h-65.6V1111.6z"/>
+			<path class="st12" d="M1277.1,1085.3c0,3.4-2.8,6.2-6.2,6.2s-6.2-2.8-6.2-6.2s2.8-6.2,6.2-6.2
 				C1274.4,1079.1,1277.1,1081.9,1277.1,1085.3"/>
-			<path class="st10" d="M1281.2,1095.5l11.4-12.2l-2.5-2.4l-9.6,10.1c0,0-2.6,2.2-4.8,2.2h-9.4c-4.3,0-7.8,3.5-7.8,7.8v15.7h3.4
-				v-13.1c0-0.3,0.2-0.6,0.6-0.6c0.3,0,0.6,0.2,0.6,0.6v30.6h6.5v-16.2c0-0.6,0.5-1.3,1.3-1.3c0.6,0,1.3,0.5,1.3,1.3v16.3h6.7v-30.6
+			<path class="st12" d="M1281.2,1095.5l11.4-12.2l-2.5-2.4l-9.6,10.1c0,0-2.6,2.2-4.8,2.2h-9.4c-4.3,0-7.8,3.5-7.8,7.8v15.7h3.4
+				v-13.1c0-0.3,0.2-0.6,0.6-0.6c0.3,0,0.6,0.2,0.6,0.6v30.6h6.5V1118c0-0.6,0.5-1.3,1.3-1.3c0.6,0,1.3,0.5,1.3,1.3v16.3h6.7v-30.6
 				C1278.9,1099.7,1280,1096.7,1281.2,1095.5z"/>
-			<circle class="st10" cx="1253.9" cy="1134.2" r="6.1"/>
-			<path class="st10" d="M1259,1142h-10.2c-3.4,0-6.3,2.5-6.3,5.9v1.1c7.6,0,15,0,22.6,0v-1.1C1265.1,1144.4,1262.5,1142,1259,1142z
+			<circle class="st12" cx="1253.9" cy="1134.2" r="6.1"/>
+			<path class="st12" d="M1259,1142h-10.2c-3.4,0-6.3,2.5-6.3,5.9v1.1c7.6,0,15,0,22.6,0v-1.1C1265.1,1144.4,1262.5,1142,1259,1142z
 				"/>
-			<circle class="st10" cx="1321.9" cy="1134.2" r="6.1"/>
-			<path class="st10" d="M1327.1,1142h-10.2c-3.4,0-6.3,2.5-6.3,5.9v1.1c7.6,0,15,0,22.6,0v-1.1
+			<circle class="st12" cx="1321.9" cy="1134.2" r="6.1"/>
+			<path class="st12" d="M1327.1,1142h-10.2c-3.4,0-6.3,2.5-6.3,5.9v1.1c7.6,0,15,0,22.6,0v-1.1
 				C1333.2,1144.4,1330.5,1142,1327.1,1142z"/>
-			<circle class="st10" cx="1287.9" cy="1134.2" r="6.1"/>
-			<path class="st10" d="M1293.1,1142h-10.2c-3.4,0-6.3,2.5-6.3,5.9v1.1c7.6,0,15,0,22.6,0v-1.1
+			<circle class="st12" cx="1287.9" cy="1134.2" r="6.1"/>
+			<path class="st12" d="M1293.1,1142h-10.2c-3.4,0-6.3,2.5-6.3,5.9v1.1c7.6,0,15,0,22.6,0v-1.1
 				C1299.1,1144.4,1296.5,1142,1293.1,1142z"/>
 		</g>
 	</g>
 </g>
-<text transform="matrix(1 0 0 1 865.2815 606.7435)"><tspan x="0" y="0" class="st12 st13">Artisan Grain </tspan><tspan x="0.7" y="45.9" class="st12 st13">Collaborative</tspan></text>
+<text transform="matrix(1 0 0 1 865.2815 606.7435)" class="st16 st17">Artisan Grain </text>
+<text transform="matrix(1 0 0 1 865.9815 652.6436)" class="st16 st17">Collaborative</text>
 <g>
 	<g>
 		<path d="M1015.8,443.5c0,0,3.2,14.4,2,18.5c-1,4-4.3,6.4-7.3,5.6c-3-0.9-4.5-4.6-3.5-8.3C1008.1,455.7,1015.8,443.5,1015.8,443.5z
 			"/>
-		<path d="M992.8,456.8c0,0,10.2,8.8,11.5,12.4c1.3,3.5-0.1,7.5-3,8.7c-2.9,1.2-6.2-0.8-7.5-4.2
-			C992.8,470.2,992.8,456.8,992.8,456.8z"/>
+		<path d="M992.8,456.8c0,0,10.2,8.8,11.5,12.4c1.3,3.5-0.1,7.5-3,8.7s-6.2-0.8-7.5-4.2C992.8,470.2,992.8,456.8,992.8,456.8z"/>
 		<path d="M987.3,474.4c0,0,9.3,9.8,10.1,13.5c1,3.6-0.9,7.4-3.9,8.3c-3.1,0.8-6.1-1.5-7-5C985.9,487.7,987.3,474.4,987.3,474.4z"/>
 		<path d="M980,491.2c0,0,8.2,10.7,8.6,14.5c0.6,3.7-1.7,7.3-4.9,7.7c-3.1,0.4-5.9-2.3-6.3-5.8C977.2,504.1,980,491.2,980,491.2z"/>
 		<path d="M1031.3,466.8c0,0-13.5,3.5-16.6,5.7c-3.1,2.3-4.4,6.3-3,9.2c1.5,2.9,5.2,3.6,8.5,1.3
 			C1023.6,480.8,1031.3,466.8,1031.3,466.8z"/>
-		<path d="M1024.6,488.3c0,0-13.8,2.1-17.1,4c-3.3,2-5.1,5.8-4,8.9c1.1,3.1,4.8,4.2,8.3,2.2C1015.4,501.6,1024.6,488.3,1024.6,488.3
-			z"/>
-		<path d="M1015.5,509.1c0,0-14,0.7-17.5,2.1c-3.5,1.6-5.8,5.2-5.1,8.4c0.7,3.2,4.2,4.8,8,3.3
-			C1004.8,521.4,1015.5,509.1,1015.5,509.1z"/>
+		<path d="M1024.6,488.3c0,0-13.8,2.1-17.1,4c-3.3,2-5.1,5.8-4,8.9s4.8,4.2,8.3,2.2C1015.4,501.6,1024.6,488.3,1024.6,488.3z"/>
+		<path d="M1015.5,509.1c0,0-14,0.7-17.5,2.1c-3.5,1.6-5.8,5.2-5.1,8.4s4.2,4.8,8,3.3C1004.8,521.4,1015.5,509.1,1015.5,509.1z"/>
 		<path d="M971,506.7c0,0,6.8,11.6,6.6,15.4c0,3.7-2.7,6.9-5.9,6.9c-3.2-0.1-5.4-3.1-5.4-6.7C966.6,518.8,971,506.7,971,506.7z"/>
 		<path d="M1003.9,529c0,0-14-1.1-17.7-0.2c-3.8,1.1-6.5,4.3-6.2,7.6c0.2,3.2,3.4,5.4,7.4,4.4C991.4,540,1003.9,529,1003.9,529z"/>
 		<path d="M933.4,563.8c-0.7,0.3-1.5,0-1.7-0.7l0,0c-0.2-0.6,0.1-1.4,0.8-1.7c19-7.3,35.5-20.3,48-36.3c12.6-16,21.5-34.7,27.6-54.1
@@ -35886,9 +35890,8 @@ Qv2QQm4whHPRuC4EQyC90vqaBEvQDVEwBSw903cXBAA7">
 			L933.4,563.8z"/>
 	</g>
 	<g>
-		<path d="M944.7,429.4c0,0,8.6,6.6,9.8,9.5c1.3,2.7,0.5,5.7-1.6,6.5c-2.1,0.8-4.6-0.6-5.8-3.1C946.1,439.8,944.7,429.4,944.7,429.4
-			z"/>
-		<path d="M938,447.4c0,0,9.7,0.2,12.1,1.7c2.3,1.4,3.3,4.3,2.1,6.3c-1.2,2-4,2.2-6.2,0.8C943.9,454.7,938,447.4,938,447.4z"/>
+		<path d="M944.7,429.4c0,0,8.6,6.6,9.8,9.5c1.3,2.7,0.5,5.7-1.6,6.5s-4.6-0.6-5.8-3.1C946.1,439.8,944.7,429.4,944.7,429.4z"/>
+		<path d="M938,447.4c0,0,9.7,0.2,12.1,1.7c2.3,1.4,3.3,4.3,2.1,6.3s-4,2.2-6.2,0.8C943.9,454.7,938,447.4,938,447.4z"/>
 		<path d="M942.5,459.4c0,0,9.6,1.6,11.7,3.5c2.1,1.7,2.6,4.8,1,6.5c-1.5,1.7-4.3,1.5-6.2-0.2C947.2,467.4,942.5,459.4,942.5,459.4z
 			"/>
 		<path d="M945,471.8c0,0,9.2,3.1,10.9,5.4c1.8,2.1,1.7,5.2-0.1,6.6c-1.8,1.5-4.5,0.8-6.1-1.2C948.3,480.4,945,471.8,945,471.8z"/>
@@ -35905,34 +35908,34 @@ Qv2QQm4whHPRuC4EQyC90vqaBEvQDVEwBSw903cXBAA7">
 			"/>
 	</g>
 </g>
-<path class="st14" d="M356.2,476.7c6.5-16.1,14.5-31.8,24.1-47.1"/>
-<path class="st14" d="M337.8,570.3c0-15.9,1.6-31.6,4.6-47"/>
-<path class="st15" d="M340.6,606.9c-1.8-12-2.8-24.2-2.8-36.6"/>
-<path class="st16" d="M435.9,778.8c-10.2-9.9-19.7-20.1-28.5-30.6"/>
-<path class="st16" d="M589.7,888.1c-12.2-5.8-24-11.9-35.5-18.2"/>
-<path class="st16" d="M800.6,949.3c-24.2-4.5-47.8-9.8-70.7-15.9"/>
-<path class="st16" d="M1051,965.3c-18.7,1-37.7,1.5-56.8,1.5c-11.3,0-22.6-0.2-33.8-0.5"/>
-<path class="st16" d="M1324.3,913.1c-29.5,10.4-60.5,19.4-92.7,27"/>
-<path class="st16" d="M1521.6,806.4c-15.4,12.5-32,24.5-49.6,35.8"/>
-<path class="st16" d="M1625.1,680.1c-7.8,16.4-17.3,32.4-28.4,47.8"/>
-<path class="st15" d="M1650.6,570.3c0,12.3-0.9,24.4-2.7,36.4"/>
-<path class="st16" d="M1650.3,558c0.2,4.1,0.3,8.2,0.3,12.3"/>
-<path class="st17" d="M1648.1,535.3c1.1,7.5,1.8,15.1,2.2,22.7"/>
-<path class="st17" d="M1601.4,414.7c8.7,12.1,16.4,24.5,23.1,37.1"/>
-<path class="st17" d="M1454.3,287.5c18.5,11,35.9,22.6,52.1,34.8"/>
-<path class="st17" d="M1231.6,200.5c13.3,3.1,26.3,6.5,39.1,10.1"/>
-<path class="st17" d="M921.2,176.3c20.4-1.4,41.1-2.2,62-2.4"/>
-<path class="st17" d="M696.6,216.8c18.4-5.6,37.2-10.8,56.5-15.4"/>
-<path class="st14" d="M639.6,236.6c18.4-7.1,37.4-13.7,57-19.8"/>
-<path class="st14" d="M459.8,340c14.6-12.4,30.4-24.2,47.3-35.5"/>
-<line class="st18" x1="696.4" y1="214.3" x2="551.8" y2="-1.8"/>
-<line class="st19" x1="1652.8" y1="558" x2="1996.4" y2="558"/>
-<line class="st20" x1="337.8" y1="570.3" x2="0" y2="570.3"/>
-<rect class="st21" width="2000" height="1219"/>
-<rect class="st22" width="2000" height="1219"/>
+<path class="st18" d="M356.2,476.7c6.5-16.1,14.5-31.8,24.1-47.1"/>
+<path class="st18" d="M337.8,570.3c0-15.9,1.6-31.6,4.6-47"/>
+<path class="st19" d="M340.6,606.9c-1.8-12-2.8-24.2-2.8-36.6"/>
+<path class="st20" d="M435.9,778.8c-10.2-9.9-19.7-20.1-28.5-30.6"/>
+<path class="st20" d="M589.7,888.1c-12.2-5.8-24-11.9-35.5-18.2"/>
+<path class="st20" d="M800.6,949.3c-24.2-4.5-47.8-9.8-70.7-15.9"/>
+<path class="st20" d="M1051,965.3c-18.7,1-37.7,1.5-56.8,1.5c-11.3,0-22.6-0.2-33.8-0.5"/>
+<path class="st20" d="M1324.3,913.1c-29.5,10.4-60.5,19.4-92.7,27"/>
+<path class="st20" d="M1521.6,806.4c-15.4,12.5-32,24.5-49.6,35.8"/>
+<path class="st20" d="M1625.1,680.1c-7.8,16.4-17.3,32.4-28.4,47.8"/>
+<path class="st19" d="M1650.6,570.3c0,12.3-0.9,24.4-2.7,36.4"/>
+<path class="st20" d="M1650.3,558c0.2,4.1,0.3,8.2,0.3,12.3"/>
+<path class="st21" d="M1648.1,535.3c1.1,7.5,1.8,15.1,2.2,22.7"/>
+<path class="st21" d="M1601.4,414.7c8.7,12.1,16.4,24.5,23.1,37.1"/>
+<path class="st21" d="M1454.3,287.5c18.5,11,35.9,22.6,52.1,34.8"/>
+<path class="st21" d="M1231.6,200.5c13.3,3.1,26.3,6.5,39.1,10.1"/>
+<path class="st21" d="M921.2,176.3c20.4-1.4,41.1-2.2,62-2.4"/>
+<path class="st21" d="M696.6,216.8c18.4-5.6,37.2-10.8,56.5-15.4"/>
+<path class="st18" d="M639.6,236.6c18.4-7.1,37.4-13.7,57-19.8"/>
+<path class="st18" d="M459.8,340c14.6-12.4,30.4-24.2,47.3-35.5"/>
+<line class="st22" x1="696.4" y1="214.3" x2="551.8" y2="-1.8"/>
+<line class="st23" x1="1652.8" y1="558" x2="1996.4" y2="558"/>
+<line class="st14" x1="337.8" y1="570.3" x2="0" y2="570.3"/>
+<rect class="st24" width="2000" height="1219"/>
+<rect class="st25" width="2000" height="1219"/>
 <a xlink:href="https://www.gourmetgorilla.com/"  transform="matrix(0.6033 0 0 0.6033 396.1077 791.1462)">
 	
-		<image style="overflow:visible;" width="240" height="100" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAPAAAABkCAYAAAHPpY1RAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+		<image style="overflow:visible;enable-background:new    ;" width="240" height="100" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAPAAAABkCAYAAAHPpY1RAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
 jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAB58SURBVHhe7Z3rzx3VdcbfvyGV+NB+qfIlVb5E
 NGrUUBoSpwkUCgQai0CpgmSVVCAKVVGFA0GNQSINL00oNlXAoFJhQsutTWOnLRc1TY1Iwa1JWqyU
 OgeDbe6xXRHXQOCU37znOV5nvWvP7JlzP+880nPOzJ49+7b22rfZs2apOyXMXsQ/+9lbvaMV7PiX
